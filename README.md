@@ -1,2 +1,3 @@
 # hello-world
-My first repository in GitHub
+
+In a few minutes I'll take my breakfast !:)
